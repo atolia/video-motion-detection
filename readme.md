@@ -9,5 +9,5 @@
 
 
 ## Example usage:
-`./mdetect.py -i IN -o out.mp4`
+`./mdetect.py -i VIDEO_FOLDER -o out.mp4`
 
