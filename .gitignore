@@ -1,0 +1,15 @@
+.vagrant/
+.venv
+__pycache__
+tmp
+.ipynb_checkpoints
+.DS_Store
+*debhelper*
+debian/changelog
+client/debian/changelog
+config.yml
+debian/changelog
+*all.deb
+*all.txt
+out.jpg
+out.avi
