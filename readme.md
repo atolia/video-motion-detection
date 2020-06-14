@@ -1,4 +1,4 @@
-# Python video concation and motion detecttion
+# Python video concatenation and motion detection
 
 ## Important constants:
 
